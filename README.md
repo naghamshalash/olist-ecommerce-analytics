@@ -40,4 +40,4 @@ This project was originally completed as an academic team assignment. This repos
 Brazilian E-Commerce Public Dataset by Olist, available on Kaggle.
 
 ## Dashboard & Project Files
-Dashboard screenshots and supporting project materials will be added to this repository.
+[View Power BI Dashboard (PDF)](Olist_Dashboard.pdf)
