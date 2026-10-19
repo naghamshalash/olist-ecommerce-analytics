@@ -43,5 +43,5 @@ The data was cleaned, merged, and transformed using Power Query to prepare it fo
 
 ## Dashboard & Project Files
 - [View Power BI Dashboard](Olist_Dashboard.pdf)
-- [View Full Project Report](Olist_Report.pdf)
+- [View Full Project Report](Olist_Report%20.pdf)
 - [View Project Presentation](Olist_Presentation.pdf)
