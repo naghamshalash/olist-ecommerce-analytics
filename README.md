@@ -37,7 +37,9 @@ The analysis highlights delivery reliability as an important area for operationa
 This project was originally completed as an academic team assignment. This repository serves as a personal portfolio presentation of my analytical work and contributions.
 
 ## Data Source
-Brazilian E-Commerce Public Dataset by Olist, available on Kaggle.
+This project uses the Brazilian E-Commerce Public Dataset by Olist, available on Kaggle.
+**Original Dataset:** [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+The data was cleaned, merged, and transformed using Power Query to prepare it for analysis.
 
 ## Dashboard & Project Files
 - [View Power BI Dashboard](Olist_Dashboard.pdf)
